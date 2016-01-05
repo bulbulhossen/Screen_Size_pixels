@@ -20,7 +20,7 @@
                 android:layout_height="wrap_content"
                 android:textColor="#000"
                 android:textSize="20sp"
-                android:text="720"/>
+                android:text="720 test"/>
         </LinearLayout>
         <LinearLayout
             android:layout_width="match_parent"
